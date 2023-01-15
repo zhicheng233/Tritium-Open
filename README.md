@@ -11,6 +11,7 @@
 # About Distribution
 - You can add \ modify 
 ```json
+        {    
             "downloads":{
                 "artifact":{
                     "path":"me/imflowow/authlib/1.2/authlib-1.2.jar",
