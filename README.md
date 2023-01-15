@@ -20,7 +20,7 @@
             },
             "name":"me.imflowow:authlib:1.2"
         },`
- to `"libraries":[ {' in the json`
+ to `"libraries":[ {` in the json
 
 
 - authilb-1.2.jar DL URL: `https://data.zhicheng233.ml/Tritium-R/authlib-1.2.jar`
