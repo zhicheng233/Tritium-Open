@@ -10,7 +10,8 @@
 
 # About Distribution
 - You can add \ modify 
-            `"downloads":{
+```json
+            "downloads":{
                 "artifact":{
                     "path":"me/imflowow/authlib/1.2/authlib-1.2.jar",
                     "sha1":"8588cc161036d7290a5e03270659d81b61c80d92",
@@ -19,8 +20,9 @@
                 }
             },
             "name":"me.imflowow:authlib:1.2"
-        },`
- to `"libraries":[ {` in the json
+        },
+```
+ to `"libraries":[ ` in the json
 
 
 - authilb-1.2.jar DL URL: `https://data.zhicheng233.ml/Tritium-R/authlib-1.2.jar`
