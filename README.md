@@ -17,7 +17,7 @@
                     "path":"me/imflowow/authlib/1.2/authlib-1.2.jar",
                     "sha1":"8588cc161036d7290a5e03270659d81b61c80d92",
                     "size":78412,
-                    "url":"https://gitee.com/LEF-ganga/Tritium/raw/master/authlib-1.2.jar"
+                    "url":"https://data.zhicheng233.ml/Tritium-R/authlib-1.2.jar"
                 }
             },
             "name":"me.imflowow:authlib:1.2"
